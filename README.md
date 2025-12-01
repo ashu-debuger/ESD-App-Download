@@ -194,6 +194,8 @@ Once linked, you can use these commands in Cliq:
 | `/tasker status` | Check connection status |
 | `/tasker commands` | List all commands |
 
+>  **See the [Full Command Reference](COMMANDS.md) for every single command, filter, and natural language phrase!**
+
 ### TaskerBot 🤖
 
 You can also chat naturally with **TaskerBot** in Zoho Cliq:
@@ -205,6 +207,8 @@ You can also chat naturally with **TaskerBot** in Zoho Cliq:
 | "Create a task Review report" | Creates a new task |
 | "Good morning" | Shows daily briefing |
 | "help" | Shows command list |
+
+>  **Want every single command? Check out the [Complete Command Reference](COMMANDS.md)!**
 
 ### Dashboard Widget
 
@@ -271,7 +275,8 @@ If you're stuck or have questions:
 
 1. **Check the FAQ** above
 2. **In Zoho Cliq**: Type `/tasker help` for command help
-3. **Contact Support**: Create an issue on this GitHub repository
+3. ** Full Command Reference**: Check out [COMMANDS.md](COMMANDS.md) for every possible command
+4. **Contact Support**: Create an issue on this GitHub repository
 
 ---
 
