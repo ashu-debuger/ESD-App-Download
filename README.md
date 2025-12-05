@@ -14,6 +14,16 @@
 
 ---
 
+## 🔗 Source Code & Repositories
+
+| Repository | Description |
+|------------|-------------|
+| [📱 Tasker App](https://github.com/ashu-debuger/tasker-app) | Flutter mobile application source code |
+| [⚙️ Tasker Backend](https://github.com/ashu-debuger/tasker-backend) | Node.js API & Zoho Cliq integration |
+| [📥 Download APK](https://github.com/ashu-debuger/ESD-App-Download) | Latest Android release (this repo) |
+
+---
+
 ## 🎬 What is Tasker?
 
 **Tasker by Mantra** is a beautiful, powerful task and project management app designed to help you:
@@ -275,8 +285,9 @@ If you're stuck or have questions:
 
 1. **Check the FAQ** above
 2. **In Zoho Cliq**: Type `/tasker help` for command help
-3. ** Full Command Reference**: Check out [COMMANDS.md](COMMANDS.md) for every possible command
-4. **Contact Support**: Create an issue on this GitHub repository
+3. **Full Command Reference**: Check out [COMMANDS.md](COMMANDS.md) for every possible command
+4. **View Source Code**: [Flutter App](https://github.com/ashu-debuger/tasker-app) | [Backend API](https://github.com/ashu-debuger/tasker-backend)
+5. **Contact Support**: Create an issue on this GitHub repository
 
 ---
 
@@ -299,10 +310,11 @@ If you're stuck or have questions:
 | Aspect | Details |
 |--------|---------|
 | **Built with** | Flutter |
-| **Backend** | Firebase (Auth + Firestore) |
+| **Backend** | Firebase (Auth + Firestore) + [Node.js API](https://github.com/ashu-debuger/tasker-backend) |
 | **Platforms** | Android (iOS coming soon) |
 | **Min Android** | Android 5.0 (API 21) |
 | **Size** | ~25 MB |
+| **Source Code** | [Flutter App](https://github.com/ashu-debuger/tasker-app) |
 
 ---
 
@@ -316,6 +328,6 @@ Tasker by Mantra - All Rights Reserved
 
 **Made with ❤️ by Mantra**
 
-[⬆️ Back to Top](#-tasker-by-mantra)
+[📱 Source Code](https://github.com/ashu-debuger/tasker-app) • [⚙️ Backend API](https://github.com/ashu-debuger/tasker-backend) • [⬆️ Back to Top](#-tasker-by-mantra)
 
 </div>
